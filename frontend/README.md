@@ -4,7 +4,7 @@
 
 ## 🔥 Live Demo
 
-> _Coming Soon_ – Deploy to Vercel or Netlify
+Live link(https://job-flow-wine.vercel.app/)
 
 ## 🚀 Features
 
@@ -31,10 +31,6 @@
   - Header, Layout, StatusSummary, ApplicationForm, WelcomeMessage etc.
 - ✅ **Routing**
   - React Router v6 for navigation
-
-## 📸 Screenshots
-
-> Add here if you like: Home, Dashboard, Toasts, etc.
 
 ## 🛠️ Tech Stack
 
