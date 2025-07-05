@@ -6,9 +6,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Click here to view JobFlow](https://jobflow-demo.vercel.app)
-
----
+👉 [Click here to view JobFlow](https://job-flow-wine.vercel.app/)
 
 ---
 
@@ -58,9 +56,6 @@
 
 ---
 
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -83,15 +78,18 @@ MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 PORT=5000
 ```
+
 ### Run the backend
 ```bash
 npm run dev
 ```
+
 ### 3. Frontend Setup (client/)
 ```bash
 cd ../client
 npm install
 ```
+
 ### Create .env inside client/:
 
 ```bash
@@ -102,6 +100,7 @@ VITE_API_URL=http://localhost:5000/api
 ```bash
 npm run dev
 ```
+
 App will be available at http://localhost:5173
 
 ## 📄 License
