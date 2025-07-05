@@ -4,7 +4,7 @@
 
 ## 🔥 Live Demo
 
-Live link(https://job-flow-wine.vercel.app/)
+👉 [Live demo link](https://job-flow-wine.vercel.app/)
 
 ## 🚀 Features
 
