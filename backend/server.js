@@ -8,7 +8,12 @@ connectDB();
 
 const app = express();
 
-app.use(cors());
+// ✅ Update this part to configure CORS properly
+app.use(cors({
+  origin: 'https://job-flow-wine.vercel.app',
+  credentials: true, // If using cookies/auth headers
+}));
+
 app.use(express.json());
 
 app.use('/api/auth', require('./routes/authRoutes'));
